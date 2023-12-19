@@ -24,7 +24,7 @@ const swaggerDefinition = {
       description: `Development server running on port ${port}`,
     },
     {
-      url: `https://api-pos.cyclic.cloud/docs`,
+      url: `https://api-pos.cyclic.app`,
       description: `Production server`,
     },
   ],
